@@ -27,6 +27,7 @@ import com.mygdx.game.MainMap;
 import com.mygdx.game.RequestHandler;
 import com.mygdx.game.android.GoogleMapFragment.onReady;
 
+// fart
 public class AndroidLauncher extends AndroidApplication implements RequestHandler, onReady, LocationListener,
 		GooglePlayServicesClient.ConnectionCallbacks {
 
